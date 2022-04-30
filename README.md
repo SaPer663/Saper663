@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saper663)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saper663ru@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaPer663&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaPer663&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SaPer663&theme=darkhub&no-bg=true&no-frame=true)
